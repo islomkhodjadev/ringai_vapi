@@ -1,0 +1,64 @@
+# users one
+
+{
+    "username": "userone",
+    "email": "userone@example.com",
+    "password": "password123",
+    "company": {
+        "founder": "Alice Johnson",
+        "phoneNumber": "998931234567",
+        "companyName": "Alice Co",
+        "twilioToken": "token123abc",
+        "twilioSid": "sid123abc",
+        "twilioNumber": "number123"
+    }
+}
+
+    
+# customers for user one
+{
+    "fullName": "Alice Johnson",
+    "phoneNumber": "998931234567",
+    "info": "Preferred contact in the evening."
+}
+
+{
+    "fullName": "Bob Smith",
+    "phoneNumber": "998941234567",
+    "info": null
+}
+
+
+
+# user two
+{
+    "username": "userone",
+    "email": "userone@example.com",
+    "password": "password123",
+    "company": {
+        "founder": "Alice Johnson",
+        "phoneNumber": "998931234567",
+        "companyName": "Alice Co",
+        "twilioToken": "token123abc",
+        "twilioSid": "sid123abc",
+        "twilioNumber": "number123"
+    }
+}
+
+
+
+
+
+# customers for user two
+{
+    "fullName": "Carol White",
+    "phoneNumber": "998951234567",
+    "info": "Requires special assistance due to mobility issues."
+}
+
+{
+    "fullName": "Dave Brown",
+    "phoneNumber": "998961234567",
+    "info": "Frequent caller, high priority."
+}
+}
